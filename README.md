@@ -91,7 +91,7 @@ portfolio/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/ankitmor96/portfolio-website.git
+git clone (https://github.com/ankitmor96/css-portfolio/edit/main/README.md)
 
 2️⃣ Navigate into the project
 cd portfolio-website
