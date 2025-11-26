@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 700px;
+    background-color:  #333;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+.navbar ul li:hover{
+   border: 1px solid black;
+   width: auto;
+}
+.hero{
+    height: 890px;
+    background-image: url(./asset/backgroundimg.jpg);
+    background-size: cover;
+}
+.hero-content{
+    text-align: center;
+    padding-top: 300px;
+    color: white;
+}
+.hero-content h1{
+    font-size: 30px;
+} 
+.hero-content p{
+    font-size: 15px;
+   
+}
+.service {
+    padding: 50px 200px;
+    text-align: center;
+   
+}
+.service h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.box-1{
+    display: flex;
+    gap: 30px;
+}
+.box{
+   border: 2px solid black;
+   height: 500px;
+   width: 400px;
+}
+.fa-solid {
+    font-size: 80px;
+    color: pink;
+    margin-top: 130px;
+    margin-left: 160px;
+}
+
+.box h1, p{
+   text-align: center;
+  
+}   
+.container-1 h1{
+    text-align: center;
+   margin-top: 40px;
+   margin-left: 140px;
+}
+.container-1 p{
+    text-align: center;
+    margin-top: 30px;
+}
+.sidbar {
+    position: relative;
+    bottom: 1500px;
+    left: 100px;
+    gap: 30px;
+}
+.box-2{
+    margin-left: 540px;
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+}
+.box img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+}
+.container-2 h1{
+    text-align: center;
+    margin-top: -70px;
+}
+.box-3{
+    margin-left: 330px;
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+.box-3 img{
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+}
+.box-3 h2 h3{
+    padding: 10px;
+}
+.box-3 .box h4{
+    margin-left: 250px;
+    margin-top: 50px;
+    color: blueviolet;
+}
+.ftr{
+    background-color: darkgray;
+}
+.ftr{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+
+}
+.ftr .fa-solid{
+color: rgb(128, 128, 240);
+} 
+.ftr1 p{
+    font-size: 15px;
+   margin-left: 250px;
+}
