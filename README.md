@@ -1,7 +1,7 @@
 <img width="1920" height="4947" alt="image" src="https://github.com/user-attachments/assets/dce7de6a-a1c7-49c0-aa4e-24069d098dd9" />
 
 
-A fully responsive and modern Personal Portfolio Website designed to showcase projects, services, blogs, and personal branding. This website is perfect for developers, designers, freelancers, and creative professionals who want to present their work in a clean and professional way.
+
 
 
 🎯 Purpose of the Website
